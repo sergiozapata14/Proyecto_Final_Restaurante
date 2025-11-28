@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "nombre": "Banderilla de salchicha",
+    "precio": 40
+  },
+  {
+    "id": 2,
+    "nombre": "Banderilla de salchicha y queso",
+    "precio": 45
+  },
+  {
+    "id": 3,
+    "nombre": "Banderilla de pepperoni y queso",
+    "precio": 45
+  },
+  {
+    "id": 4,
+    "nombre": "Banderilla de queso",
+    "precio": 50
+  },
+  {
+    "id": 5,
+    "nombre": "Banderilla italiana",
+    "precio": 50
+  },
+  {
+    "id": 6,
+    "nombre": "Dedos de queso",
+    "precio": 70
+  },
+  {
+    "id": 7,
+    "nombre": "Aros de cebolla",
+    "precio": 50
+  },
+  {
+    "id": 8,
+    "nombre": "Papas gajo",
+    "precio": 40
+  },
+  {
+    "id": 9,
+    "nombre": "Pa'l diente",
+    "precio": 150
+  },
+  {
+    "id": 10,
+    "nombre": "Polvo flaming hot",
+    "precio": 5
+  },
+  {
+    "id": 11,
+    "nombre": "Polvo ruffles de queso",
+    "precio": 5
+  },
+  {
+    "id": 12,
+    "nombre": "Aderezo a elegir",
+    "precio": 5
+  },
+  {
+    "id": 13,
+    "nombre": "Oreo bites",
+    "precio": 50
+  },
+  {
+    "id": 14,
+    "nombre": "Sugarstick choco roles",
+    "precio": 50
+  },
+  {
+    "id": 15,
+    "nombre": "Sugarstick bubulubu",
+    "precio": 50
+  },
+  {
+    "id": 16,
+    "nombre": "Sugarstick mamut",
+    "precio": 50
+  },
+  {
+    "id": 17,
+    "nombre": "Sugarstick dulce de leche",
+    "precio": 50
+  },
+  {
+    "id": 18,
+    "nombre": "Sugarstick snickers",
+    "precio": 60
+  },
+  {
+    "id": 19,
+    "nombre": "Sugarstick milkyway",
+    "precio": 60
+  },
+  {
+    "id": 20,
+    "nombre": "Sugarstick kinder delice",
+    "precio": 60
+  },
+  {
+    "id": 21,
+    "nombre": "Sugarstick gansito",
+    "precio": 60
+  },
+  {
+    "id": 22,
+    "nombre": "Sugarstick pastelito hershey's",
+    "precio": 60
+  }
+]

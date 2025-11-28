@@ -1,0 +1,139 @@
+/*
+    Colores principales:
+    Rojo suave: #E75659
+    Gris oscuro para líneas: #1A1A1A
+    Beige para fondo: #E8DDBF
+*/
+
+:root
+{
+    --primary-red: #E75659;
+    --dark-line: #1A1A1A;
+    --soft-beige: #E8DDBF;
+    --light-bg: #f8f9fa;
+}
+
+body
+{
+    background-color: var(--soft-beige);
+    color: var(--dark-line);
+    font-family: "Segoe UI", sans-serif;
+}
+
+/* NAVBAR */
+.navbar.bg-dark
+{
+    background-color: var(--dark-line) !important;
+}
+
+.nav-link
+{
+    color: #fff !important;
+}
+
+.nav-link:hover
+{
+    color: var(--primary-red) !important;
+}
+
+/* BOTONES */
+.btn-primary
+{
+    background-color: var(--primary-red);
+    border-color: var(--primary-red);
+}
+
+.btn-primary:hover
+{
+    background-color: #c9484b;
+    border-color: #c9484b;
+}
+
+.btn-success
+{
+    background-color: var(--dark-line);
+    border-color: var(--dark-line);
+}
+
+.btn-success:hover
+{
+    background-color: #000;
+    border-color: #000;
+}
+
+.btn-secondary
+{
+    background-color: var(--primary-red);
+    border-color: var(--primary-red);
+}
+
+.btn-secondary:hover
+{
+    background-color: #c9484b;
+    border-color: #c9484b;
+}
+
+/* FORMULARIOS */
+.card
+{
+    border-radius: 12px;
+    border: 2px solid var(--dark-line);
+}
+
+.card-header
+{
+    background-color: var(--primary-red);
+    color: #fff;
+    font-weight: bold;
+}
+
+/* TABLAS */
+.table-striped > tbody > tr:nth-of-type(odd)
+{
+    background-color: rgba(231,86,89,0.10);
+}
+
+.table thead
+{
+    background-color: var(--dark-line);
+    color: white;
+}
+
+/* TITULOS */
+h1, h2, h3, h4, h5
+{
+    color: var(--dark-line);
+    font-weight: bold;
+}
+
+/* LISTA DE PRODUCTOS */
+.list-group-item
+{
+    background-color: #ffffff;
+    border-left: 5px solid var(--primary-red);
+}
+
+/* MODALES */
+.modal-content
+{
+    border-radius: 12px;
+}
+
+.modal-header
+{
+    background-color: var(--primary-red);
+    color: white;
+}
+
+.modal-footer button.btn-primary
+{
+    background-color: var(--primary-red);
+    border-color: var(--primary-red);
+}
+
+body::after
+{
+    content: "";
+    display: block;
+    height: 60px;
+}

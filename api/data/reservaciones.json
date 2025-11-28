@@ -1,0 +1,42 @@
+[
+  {
+    "nombre_cliente": "Patricia Esparza",
+    "personas": 6,
+    "telefono": "9933422088",
+    "fecha": "2025-11-28",
+    "hora": "14:00",
+    "notas": "",
+    "estado": "activa",
+    "id": 1764303943736
+  },
+  {
+    "nombre_cliente": "Carlos Zapata",
+    "personas": 5,
+    "telefono": "9933422088",
+    "fecha": "2025-11-29",
+    "hora": "16:00",
+    "notas": "En planta baja junto a una ventana",
+    "estado": "cancelada",
+    "id": 1764305270595
+  },
+  {
+    "nombre_cliente": "Sergio Zapata",
+    "personas": 2,
+    "telefono": "9931323632",
+    "fecha": "2025-11-30",
+    "hora": "22:00",
+    "notas": "",
+    "estado": "activa",
+    "id": 1764306114049
+  },
+  {
+    "nombre_cliente": "Gigdem",
+    "personas": 2,
+    "telefono": "9933422088",
+    "fecha": "2025-12-06",
+    "hora": "12:00",
+    "notas": "En terraza",
+    "estado": "activa",
+    "id": 1764351142003
+  }
+]
